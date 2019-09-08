@@ -149,3 +149,6 @@
     display: none;
 }
 
+.aboutText {
+    text-align: justify;
+}
