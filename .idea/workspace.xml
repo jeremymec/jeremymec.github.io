@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26a9631c-5784-47e8-9ed6-a76ab2cedb2d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/fonts/roboto-v20-latin-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/roboto-v20-latin-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/roboto-v20-latin-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/roboto-v20-latin-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/roboto-v20-latin-regular.woff2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/overrides.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/overrides.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,6 +90,8 @@
       <workItem from="1568195489013" duration="59000" />
       <workItem from="1568202707227" duration="1353000" />
       <workItem from="1568289923574" duration="123000" />
+      <workItem from="1568695111428" duration="69000" />
+      <workItem from="1568704094510" duration="475000" />
     </task>
     <servers />
   </component>
